@@ -15,12 +15,12 @@ SETUP:
 - Total CPU Usage
 - CPU Package
 - CPU Package Power
-- Temperature 1 (You can set any Temperature you want)
-- Temperature 2 (You can set any Temperature you want)
-- Temperature 3 (You can set any Temperature you want)
-- Temperature 4 (You can set any Temperature you want)
-- Fan 1 (Set any Fan/Pump you want)
-- Fan 2 (Set any Fan/Pump you want)
+- Temperature 1 (You can set any Metric you want here)
+- Temperature 2 (You can set any Metric you want here)
+- Temperature 3 (You can set any Metric you want here)
+- Temperature 4 (You can set any Metric you want here)
+- Fan 1 (Set any Metric you want here)
+- Fan 2 (Set any Metric you want here)
 - Drive Airflow Temperature
 - GPU Thermal Diode
 - GPU Fan (ODN)

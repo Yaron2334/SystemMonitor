@@ -2,7 +2,9 @@
 # DroptopFour-SystemMonitor
 A System Monitoring App for DroptopFour.
 
-v1.0.0 is here! It runs with HWiNFO on the Backend and offers many options to add to SystemMonitor.
+v1.0.0 is here! It runs with HWiNFO on the Backend and offers many options to add to SystemMonitor. 
+Special Thanks go to [Cariboudjan](https://github.com/Cariboudjan)  for helping with the Integration into DropTop Four.
+
 
 SETUP:
 1. To make HWiNFO ready follow the linked guide below and set the following Metrics to "Report Value to Gadget":

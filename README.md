@@ -34,6 +34,7 @@ The hardest part is done!
 
 2. Open SystemMonitor-Yaron in Droptop Four go to Preferences -> "Variables config" and follow the Instructions.
 
+(3. You can rename the temperature/fan (or any other) meters in HWiNFO by rightclicking -> rename. This will automaticaly change the Name in System Monitor.)
 
 If you have any questions or Requests write me on Discord: Yaron#1479 or in the [Droptop Discord](https://discord.com/invite/sr54GBHBxb)
 

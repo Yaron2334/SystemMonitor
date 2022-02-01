@@ -7,7 +7,8 @@ Special Thanks go to [Cariboudjan](https://github.com/Cariboudjan)  for helping 
 
 
 SETUP:
-1. To make HWiNFO ready follow the linked guide below and set the following Metrics to "Report Value to Gadget":
+1. Download and Install both .rmskin files.
+2. To make HWiNFO ready follow the linked guide below and set the following Metrics to "Report Value to Gadget":
 
 - Physical Memory Used
 - Physical Memory Load

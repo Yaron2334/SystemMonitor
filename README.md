@@ -7,7 +7,7 @@ Special Thanks go to [Cariboudjan](https://github.com/Cariboudjan)  for helping 
 
 
 SETUP:
-1. Download and Install both .rmskin files.
+1. Download and Install both [HWiNFO show Reg_1.0.rmskin](https://github.com/Yaron2334/DroptopFour-SystemMonitor/blob/main/HWiNFO%20show%20Reg_1.0.rmskin) and the latest release of [SystemMonitor-Yaron_#Version#.rmskin](https://github.com/Yaron2334/DroptopFour-SystemMonitor/releases).
 2. To make HWiNFO ready follow the linked guide below and set the following Metrics to "Report Value to Gadget":
 
 - Physical Memory Used

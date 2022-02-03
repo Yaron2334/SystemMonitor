@@ -22,6 +22,10 @@ SETUP:
 - Fan 1 (Set any Metric you want here)
 - Fan 2 (Set any Metric you want here)
 - Drive Airflow Temperature
+- Read Activity
+- Write Activity
+- Read Rate
+- Write Rate
 - GPU Thermal Diode
 - GPU Fan (ODN)
 - GPU Chip Power
@@ -32,7 +36,7 @@ SETUP:
 
 The hardest part is done!
 
-2. Open SystemMonitor-Yaron in Droptop Four go to Preferences -> "Variables config" and follow the Instructions.
+2. Open SystemMonitor-Yaron in Droptop Four go to Preferences -> "Variables config" and follow the Instructions in the document.
 
 (3. You can rename the temperature/fan (or any other) meters in HWiNFO by rightclicking -> rename. This will automaticaly change the Name in System Monitor.)
 
@@ -43,4 +47,5 @@ Setupguide: [HWiNFO Setup](https://docs.rainmeter.net/tips/hwinfo/)
 
 HWiNFO: [HWiNFO current Version](https://www.hwinfo.com/download/)
 
-![Screenshot 2022-02-01 163600](https://user-images.githubusercontent.com/87992378/152004002-6889cba5-3773-431b-bf15-23d85dda8f9b.png)
+
+![Screenshot 2](https://user-images.githubusercontent.com/87992378/152316022-79a4fb2f-ee6e-4409-9a92-a751eedc8f8e.png)

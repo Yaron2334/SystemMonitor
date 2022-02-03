@@ -40,7 +40,7 @@ The hardest part is done!
 
 (3. You can rename the temperature/fan (or any other) meters in HWiNFO by rightclicking -> rename. This will automaticaly change the Name in System Monitor.)
 
-If you have any questions or Requests write me on Discord: Yaron#1479 or in the [Droptop Discord](https://discord.com/invite/sr54GBHBxb)
+If you have any questions or Requests write me on Discord: [Yaron#1479](https://discord.com/users/709053559836246137) or in the [Droptop Discord](https://discord.com/invite/sr54GBHBxb)
 
 
 Setupguide: [HWiNFO Setup](https://docs.rainmeter.net/tips/hwinfo/)

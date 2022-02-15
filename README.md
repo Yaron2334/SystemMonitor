@@ -1,5 +1,5 @@
 
-# DroptopFour-SystemMonitor
+SystemMonitor
 A System Monitoring App for [Droptop Four](https://github.com/Droptop-Four).
 
 It runs with HWiNFO on the Backend and offers many options to add to SystemMonitor. 

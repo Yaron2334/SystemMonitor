@@ -1,52 +1,48 @@
 
-SystemMonitor
+# Closed Beta Update for System Monitor 
+Requirements: 
 
-A monitoring App for [Droptop Four](https://github.com/Droptop-Four).
+[![68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d446f776e6c6f6164266d6573736167653d44726f70746f702b466f757226636f6c6f723d353041453543267374796c65](https://user-images.githubusercontent.com/87992378/154039463-3752ebd5-eb5f-45f3-bc02-29e2e62b08a1.svg)](https://github.com/Droptop-Four/Update/releases/tag/Update)   or newer
 
-It runs with HWiNFO on the Backend and offers many options to add to SystemMonitor. 
-Special Thanks go to [Cariboudjan](https://github.com/Cariboudjan)  for helping with the Integration into DropTop Four.
+## Changelog
 
+##### Version 1.2.0
 
-SETUP:
-1. Download and Install both [HWiNFO show Reg_1.0.rmskin](https://github.com/Yaron2334/DroptopFour-SystemMonitor/blob/main/HWiNFO%20show%20Reg_1.0.rmskin) and the latest release of [SystemMonitor-Yaron_#Version#.rmskin](https://github.com/Yaron2334/DroptopFour-SystemMonitor/releases).
-2. To make HWiNFO ready follow the linked guide below and set the following Metrics to "Report Value to Gadget":
+New features:
 
-- Physical Memory Used
-- Physical Memory Load
-- Total CPU Usage
-- CPU Package
-- CPU Package Power
-- Temperature 1 (You can set any Metric you want here)
-- Temperature 2 (You can set any Metric you want here)
-- Temperature 3 (You can set any Metric you want here)
-- Temperature 4 (You can set any Metric you want here)
-- Fan 1 (Set any Metric you want here)
-- Fan 2 (Set any Metric you want here)
-- Drive Airflow Temperature
-- Read Activity
-- Write Activity
-- Read Rate
-- Write Rate
-- GPU Thermal Diode
-- GPU Fan (ODN)
-- GPU Chip Power
-- GPU Utilization
-- GPU Fan PWM
-- Current DL rate
-- Current UL rate
-
-The hardest part is done!
-
-2. Open SystemMonitor-Yaron in Droptop Four go to Preferences -> "Variables config" and follow the Instructions in the document.
-
-(3. You can rename the temperature/fan (or any other) meters in HWiNFO by rightclicking -> rename. This will automaticaly change the Name in System Monitor.)
-
-If you have any questions or Requests write me on Discord: [Yaron#1479](https://discord.com/users/709053559836246137) or in the [Droptop Discord](https://discord.com/invite/sr54GBHBxb)
+- Added full setup GUI and guide that automatically starts on install.
+- All user settings from now on carry over to future updates. This includes individual user index variables for the metrics, active dropdown boxes, set top-bar metric & update interval setting.
+- You can now directly see in the preferences, what Boxes are shown/hidden & what update interval is currently set.
+- Added a statistics box, that shows total read/write & down-/upload  data since the last system start.
+- You can now press TAB in the Setup to skip to the next index.
+- When you press ENTER the next index automatically is selected.
 
 
-Setupguide: [HWiNFO Setup](https://docs.rainmeter.net/tips/hwinfo/)
+Modifications:
 
-HWiNFO: [HWiNFO current Version](https://www.hwinfo.com/download/)
+- Fixed the GPU graph, that was not showing anything at all
+- Fixed the GPU power draw
+- Showing/hiding boxes will now immediately have an effect.
+- The interval setting now properly works. The multipicator was 10x to small.
+- Default interval is now 10 seconds. (only on a fresh install)
+- On default, every box and setting is enabled (only on a fresh install). You can change them to your requirements.
+- The Setup GUI Background now has a slight blur.
+- Changed some box metric alignments. They now scale better with all themes/fonts/character spacings of Droptop-Four.
+- The input boxes in the setup GUI automatically show previously set/active Index numbers. If nothing is set it will show "Index".
+- You can now see in the preferences what version you are currently on.
 
 
-![Screenshot 2](https://user-images.githubusercontent.com/87992378/152316022-79a4fb2f-ee6e-4409-9a92-a751eedc8f8e.png)
+
+If you have any questions or requests you can contact me here:
+
+
+[![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973](https://user-images.githubusercontent.com/87992378/154038677-4d8d9361-6c53-4631-b59f-e4711223b333.svg)](https://discord.com/users/709053559836246137)  or [![Droptop Four Discord](https://user-images.githubusercontent.com/87992378/154041834-cc11eb39-0d5d-4ef1-b79e-db4135858fd2.png)](https://discord.com/invite/sr54GBHBxb)
+
+
+
+
+
+ # >>> [Click to download System Monitor](https://github.com/Yaron2334/SystemMonitor/blob/main/SystemMonitor-Yaron_1.2.0.rmskin) <<<
+
+![v1 2-Beta 4](https://user-images.githubusercontent.com/87992378/154051036-ad786970-bfd4-4412-9664-b01c7cc1b10f.png)
+

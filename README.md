@@ -6,6 +6,16 @@ Requirements:
 
 ## Changelog
 
+##### Version 1.3.0
+
+Neu features:
+
+- Added the possibility to set up to three metrics to the tob bar.
+1st: *left click*
+2nd: *right click*
+3rd: *hold right mouse button*
+
+
 ##### Version 1.2.0
 
 New features:

@@ -15,6 +15,10 @@ New features:
 2nd: *right click*
 3rd: *hold right mouse button*
 
+Modifications:
+
+- Added an additional fan metric (it is free to choose, what metric you set here)
+
 
 ##### Version 1.2.0
 

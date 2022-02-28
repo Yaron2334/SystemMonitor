@@ -8,7 +8,7 @@ Requirements:
 
 ##### Version 1.3.1
 
-- Fixed an issue, where some variables where not created for users already had the previous version installed.
+- Fixed an issue, where some variables where not created for users, that already had installed the previous version.
 - Fixed an issue, where the last setup page was not correctly displayed on 200% scaling. 
 
 ##### Version 1.3.0

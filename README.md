@@ -6,6 +6,10 @@ Requirements:
 
 ## Changelog
 
+##### Version 1.3.2
+
+- Updated the setup to match the newest version of HWiNFO
+
 ##### Version 1.3.1
 
 - Fixed an issue, where some variables where not created for users, who already had installed the previous version.

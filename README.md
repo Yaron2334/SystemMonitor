@@ -15,7 +15,7 @@ Requirements:
 
 New features:
 
-- Added new boxes, that show your top processes for CPU,GPU and RAM usage.
+- Added new boxes, that show your top processes for CPU,GPU and RAM usage. (Keep in mind, that Rainmeter will allways show more Usage as it actually does when it is running in the background)
 
 Modifications:
 

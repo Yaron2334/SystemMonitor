@@ -2,9 +2,29 @@
 # Update for System Monitor 
 Requirements: 
 
-[![68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d446f776e6c6f6164266d6573736167653d44726f70746f702b466f757226636f6c6f723d353041453543267374796c65](https://user-images.githubusercontent.com/87992378/154039463-3752ebd5-eb5f-45f3-bc02-29e2e62b08a1.svg)](https://github.com/Droptop-Four/Update/releases/tag/Update)   or newer
+[![68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d446f776e6c6f6164266d6573736167653d44726f70746f702b466f757226636f6c6f723d353041453543267374796c65](https://user-images.githubusercontent.com/87992378/154039463-3752ebd5-eb5f-45f3-bc02-29e2e62b08a1.svg)](https://github.com/Droptop-Four/Update/releases/tag/Update)   and  [![HWiNFO Download](https://user-images.githubusercontent.com/87992378/159802418-6da40e77-64e9-4089-90cd-99054f4890e7.png)
+](https://www.hwinfo.com/download/)
+
+
+
+
 
 ## Changelog
+
+##### Version 1.4.0323
+
+New features:
+
+- Added new boxes, that show your top processes for CPU,GPU and RAM usage.
+
+Modifications:
+
+- rearanged the dropdown boxes. (Thank you Cariboudjan for adding the new customizability!)
+- removed the "total read/write statistic for the storage drive. (tell me if you miss it, I can bring it back) 
+
+Other:
+
+- Version numbering changed a bit to match the Appbuilder in Droptop Four.
 
 ##### Version 1.3.3
 
@@ -68,5 +88,6 @@ Modifications:
 
 
 
-![v1 3 0](https://user-images.githubusercontent.com/87992378/155974293-7292b62a-a29f-4305-a292-dc0c39c70464.png)
+![v1 4 0323](https://user-images.githubusercontent.com/87992378/159803177-06b3a9b6-70ae-491d-9f06-4214a3b341a9.png)
+
 

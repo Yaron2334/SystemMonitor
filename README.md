@@ -12,7 +12,10 @@ Requirements:
 ## Changelog
 
 ##### Version 1.4.0323
-
+ 
+## Important: 
+##### The name changed from "SystemMonitor-Yaron" to "System Monitor - Yaron". Delete the old Folder in `\Documents\Rainmeter\Skins\Droptop Community Apps\Apps`before installing. Your Settings will still be saved! 
+ 
 New features:
 
 - Added new boxes, that show your top processes for CPU,GPU and RAM usage. (Keep in mind, that Rainmeter will allways show more CPU usage than it actually does use, when it is running in the background.)

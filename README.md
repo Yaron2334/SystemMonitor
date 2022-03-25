@@ -9,7 +9,8 @@
 
 ## Important: 
 ##### In Version 1.4.0323 the name changed from "SystemMonitor-Yaron" to "System Monitor - Yaron". 
-##### Delete the old Folder in `\Documents\Rainmeter\Skins\Droptop Community Apps\Apps` before installing. Your settings will still be saved! 
+##### Delete the old Folder in `\Documents\Rainmeter\Skins\Droptop Community Apps\Apps` before installing. 
+##### Your settings will still be saved! 
 
 
 

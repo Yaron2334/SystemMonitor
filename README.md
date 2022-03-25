@@ -97,7 +97,7 @@ Modifications:
 - Changed some box metric alignments. They now scale better with all themes/fonts/character spacings of Droptop-Four.
 - The input boxes in the setup GUI automatically show previously set/active Index numbers. If nothing is set it will show "Index".
 - You can now see in the preferences what version you are currently on.
- # >>> [Click to download System Monitor](https://github.com/Yaron2334/SystemMonitor/releases/download/v1.4.0323/System-Monitor-Yaron_1.4.0323.rmskin) <<<
+ # >>> [Click to download System Monitor](https://github.com/Yaron2334/SystemMonitor/releases/download/v1.4.0325/System-Monitor-Yaron_1.4.0325.rmskin) <<<
 
 
 #####If you have any questions or requests you can contact me here:

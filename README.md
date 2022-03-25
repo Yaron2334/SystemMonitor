@@ -7,16 +7,30 @@
 [![68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d446f776e6c6f6164266d6573736167653d44726f70746f702b466f757226636f6c6f723d353041453543267374796c65](https://user-images.githubusercontent.com/87992378/154039463-3752ebd5-eb5f-45f3-bc02-29e2e62b08a1.svg)](https://github.com/Droptop-Four/Update/releases/tag/Update)      and     [![HWiNFO Download](https://user-images.githubusercontent.com/87992378/159802418-6da40e77-64e9-4089-90cd-99054f4890e7.png)
 ](https://www.hwinfo.com/download/)
 
-
+## Important: 
+##### In Version 1.4.0323 the name changed from "SystemMonitor-Yaron" to "System Monitor - Yaron". 
+Delete the old Folder in `\Documents\Rainmeter\Skins\Droptop Community Apps\Apps` before installing. Your settings will still be saved! 
 
 
 
 ## Changelog
 
+##### Version 1.4.0325
+
+New features:
+
+- You no longer need the HWiNFO Skin to show your current active sensors with "Display Sensors". You can delete the folder "HWiNFO" in `\Documents\Rainmeter\Skins`.
+
+Modifications:
+
+- The Setup now does no longer provide the download link to the "HWiNFO ShowReg.rmskin" as it is no longer needed.
+
+Other: 
+
+- The Installer now has it's own System Monitor Header.
+- The Sensor Table in the browser now has a new Header color to match the System Monitor logo. 
+
 ##### Version 1.4.0323
- 
-## Important: 
-##### The name changed from "SystemMonitor-Yaron" to "System Monitor - Yaron". Delete the old Folder in `\Documents\Rainmeter\Skins\Droptop Community Apps\Apps`before installing. Your settings will still be saved! 
  
 New features:
 

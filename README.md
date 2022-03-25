@@ -16,7 +16,7 @@
 
 ## Changelog
 
-##### Version 1.4.0325
+## Version 1.4.0325
 
 New features:
 
@@ -31,7 +31,9 @@ Other:
 - The Installer now has it's own System Monitor Header.
 - The Sensor Table in the browser now has a new Header color to match the System Monitor logo. 
 
-##### Version 1.4.0323
+ # >>> [Click to download System Monitor](https://github.com/Yaron2334/SystemMonitor/releases/download/v1.4.0325/System-Monitor-Yaron_1.4.0325.rmskin) <<<
+
+## Version 1.4.0323
  
 New features:
 
@@ -46,20 +48,20 @@ Other:
 
 - Version numbering changed a bit to match the Appbuilder in Droptop Four.
 
-##### Version 1.3.3
+## Version 1.3.3
 
 - Added new Icon to work with the new "Top bar text shadow" feature.
 
-##### Version 1.3.2
+## Version 1.3.2
 
 - Updated the setup to match the newest version of HWiNFO
 
-##### Version 1.3.1
+## Version 1.3.1
 
 - Fixed an issue, where some variables where not created for users, who already had installed the previous version.
 - Fixed an issue, where the last setup page was not correctly displayed on 200% scaling. 
 
-##### Version 1.3.0
+## Version 1.3.0
 
 New features:
 
@@ -73,7 +75,7 @@ Modifications:
 - Added an additional fan metric (it is free to choose, what metric you set here)
 
 
-##### Version 1.2.0
+## Version 1.2.0
 
 New features:
 
@@ -97,10 +99,10 @@ Modifications:
 - Changed some box metric alignments. They now scale better with all themes/fonts/character spacings of Droptop-Four.
 - The input boxes in the setup GUI automatically show previously set/active Index numbers. If nothing is set it will show "Index".
 - You can now see in the preferences what version you are currently on.
- # >>> [Click to download System Monitor](https://github.com/Yaron2334/SystemMonitor/releases/download/v1.4.0325/System-Monitor-Yaron_1.4.0325.rmskin) <<<
 
 
-#####If you have any questions or requests you can contact me here:
+
+##### If you have any questions or requests you can contact me here:
 
 
 [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973](https://user-images.githubusercontent.com/87992378/154038677-4d8d9361-6c53-4631-b59f-e4711223b333.svg)](https://discord.com/users/709053559836246137)  or [![Droptop Four Discord](https://user-images.githubusercontent.com/87992378/154041834-cc11eb39-0d5d-4ef1-b79e-db4135858fd2.png)](https://discord.com/invite/sr54GBHBxb)

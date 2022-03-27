@@ -13,6 +13,23 @@
 ##### Your settings will still be saved! 
 
 
+## Note:
+If the top processes should not show, or stop working, the following instruction can fix this:
+- open cmd.exe as administrator
+enter the following comands one after the other in order:
+
+`cd c:\windows\system32`
+
+`lodctr /R`
+
+`cd c:\windows\sysWOW64`
+
+`lodctr /R`
+
+You should see the following results:
+
+`Info: Successfully rebuilt performance counter setting from system backup store`
+
 
 ## Changelog
 

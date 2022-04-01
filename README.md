@@ -13,25 +13,20 @@
 ##### Your settings will still be saved! 
 
 
-## Note:
-If the top processes should not show, or stop working, the following instruction can fix this:
-- open cmd.exe as administrator
-enter the following comands one after the other in order:
-
-`cd c:\windows\system32`
-
-`lodctr /R`
-
-`cd c:\windows\sysWOW64`
-
-`lodctr /R`
-
-You should see the following results:
-
-`Info: Successfully rebuilt performance counter setting from system backup store`
-
 
 ## Changelog
+
+## Version 1.4.0401
+
+New Feature:
+
+- Added a "Fix Top processes option to the main preferences Menu. If your top Processes don't show up correctly, run it and it should work again.
+
+Modifications:
+
+- The Startup process got updated to the integrated feature of droptop. Nothing changes of the surface.
+
+
 
 ## Version 1.4.0325
 
@@ -48,7 +43,7 @@ Other:
 - The Installer now has it's own System Monitor Header.
 - The Sensor Table in the browser now has a new Header color to match the System Monitor logo. 
 
- # >>> [Click to download System Monitor](https://github.com/Yaron2334/SystemMonitor/releases/download/v1.4.0325/System-Monitor-Yaron_1.4.0325.rmskin) <<<
+ # >>> [Click to download System Monitor](https://github.com/Yaron2334/SystemMonitor/releases/download/v1.4.0401/System-Monitor-Yaron_1.4.0401.rmskin) <<<
 
 ## Version 1.4.0323
  

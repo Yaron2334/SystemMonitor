@@ -24,7 +24,7 @@ New Feature:
 
 Modifications:
 
-- The Startup process got updated to the integrated feature of droptop. Nothing changes of the surface.
+- The Startup process got updated to the integrated feature of droptop. Nothing changes on the surface.
 
 
 

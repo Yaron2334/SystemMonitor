@@ -20,7 +20,7 @@
 
 New Feature:
 
-- Added a "Fix Top processes option to the main preferences Menu. If your top Processes don't show up correctly, run it and it should work again.
+- Added a "Fix Top processes" option to the main preferences Menu. If your top Processes don't show up correctly, run it and it should work again.
 
 Modifications:
 

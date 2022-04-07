@@ -16,6 +16,13 @@
 
 ## Changelog
 
+## Version 1.4.0407
+
+Modification:
+
+- Fixed The "Display Sensor" link during the Setup. Now it works as it should.
+
+
 ## Version 1.4.0401
 
 New Feature:

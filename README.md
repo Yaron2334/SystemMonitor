@@ -23,7 +23,7 @@ Modification:
 - Fixed The "Display Sensor" link during the Setup. Now it works as it should.
 
 
- # >>> [Click to download System Monitor](https://github.com/Yaron2334/SystemMonitor/raw/main/System-Monitor-Yaron%20%20(Droptop%20App).rmskin) <<<
+ # >>> [Click to download System Monitor](https://github.com/Yaron2334/SystemMonitor/raw/main/System%20Monitor%20-%20Yaron%20(Droptop%20App).rmskin) <<<
  
  
 ## Version 1.4.0401

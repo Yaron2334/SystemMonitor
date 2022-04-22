@@ -25,6 +25,7 @@ New Feature:
 Modification:
 
 - The Layout now automaticaly changes to one column when the CPU, GPU and RAM Box are hidden.
+- The current version Box now has the correct size to match the others.
 
  # >>> [Click to download System Monitor](https://github.com/Yaron2334/SystemMonitor/raw/main/System%20Monitor%20-%20Yaron%20(Droptop%20App).rmskin) <<<
 

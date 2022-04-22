@@ -16,14 +16,23 @@
 
 ## Changelog
 
+## Version 1.5.0422
+
+New Feature:
+
+- System Monitor now fully supports the 4th and 5th CustomApp spot on the topbar
+
+Modification:
+
+- The Layout now automaticaly changes to one column when the CPU, GPU and RAM Box are hidden.
+
+ # >>> [Click to download System Monitor](https://github.com/Yaron2334/SystemMonitor/raw/main/System%20Monitor%20-%20Yaron%20(Droptop%20App).rmskin) <<<
+
 ## Version 1.4.0407
 
 Modification:
 
 - Fixed The "Display Sensor" link during the Setup. Now it works as it should.
-
-
- # >>> [Click to download System Monitor](https://github.com/Yaron2334/SystemMonitor/raw/main/System%20Monitor%20-%20Yaron%20(Droptop%20App).rmskin) <<<
  
  
 ## Version 1.4.0401

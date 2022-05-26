@@ -21,7 +21,7 @@
 Modification:
 
 - Removed the "Fix Usage Monitor.exe" as it was unsigned and collided with some virus programs. Now the menu option will open a folder with "Fix Usage Monitor.bat". Rightclick -> open as Administrator to run it if necessary.
-- Changed some labelling for the setup for better clarity.
+- Changed some labelling in the setup for better clarity.
 
  # >>> [Click to download System Monitor](https://github.com/Yaron2334/SystemMonitor/raw/main/System%20Monitor%20-%20Yaron%20(Droptop%20App).rmskin) <<<
  
